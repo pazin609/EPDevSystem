@@ -1,0 +1,50 @@
+body {
+  background-color: #1c1d22;
+  text-align: center;
+  height: 800px;
+}
+fieldset {
+  color: #ffde59;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  width: 550px;
+  height: 355px;
+}
+header img{
+width: 20%;
+height: 10%;
+}
+input{
+  background-color: #737373;
+  font-size: 25px;
+}
+form{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+nav ul li{
+  list-style: none;
+  margin-right: 1cm;
+}
+nav ul li a{
+color: #ffde59;
+font-size: 20px;
+}
+div{
+  text-align: center;
+  margin: -2%;
+}
+div a{
+color: #ffde59;
+font-size: 18px;
+}
+.cont{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#meu-horizontal{
+  width: 100%;
+  height: 20%;
+}
+
